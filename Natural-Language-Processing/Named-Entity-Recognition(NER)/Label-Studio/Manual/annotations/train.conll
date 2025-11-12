@@ -1,0 +1,981 @@
+-DOCSTART- -X- O
+Just -X- _ O
+tried -X- _ O
+the -X- _ O
+new -X- _ O
+coffee -X- _ O
+at -X- _ O
+Starbucks -X- _ B-ORG
+, -X- _ O
+absolutely -X- _ O
+loved -X- _ O
+it -X- _ O
+! -X- _ O
+
+Ca -X- _ O
+n't -X- _ O
+wait -X- _ O
+for -X- _ O
+the -X- _ O
+# -X- _ O
+AppleEvent -X- _ B-HASHTAG
+next -X- _ O
+week -X- _ O
+. -X- _ O
+
+Visiting -X- _ O
+Paris -X- _ B-LOC
+in -X- _ O
+December -X- _ B-DATE
+, -X- _ O
+any -X- _ O
+tips -X- _ O
+for -X- _ O
+sightseeing -X- _ O
+? -X- _ O
+
+Check -X- _ O
+out -X- _ O
+my -X- _ O
+blog -X- _ O
+at -X- _ O
+https -X- _ B-URL
+: -X- _ I-URL
+/ -X- _ I-URL
+/ -X- _ I-URL
+travelwithme.com -X- _ I-URL
+for -X- _ O
+travel -X- _ O
+tips -X- _ O
+. -X- _ O
+
+Congrats -X- _ O
+to -X- _ O
+@ -X- _ O
+elonmusk -X- _ B-PERSON
+for -X- _ O
+the -X- _ O
+SpaceX -X- _ B-ORG
+launch -X- _ O
+success -X- _ O
+! -X- _ O
+
+My -X- _ O
+favorite -X- _ O
+song -X- _ O
+right -X- _ O
+now -X- _ O
+is -X- _ O
+“Blinding -X- _ B-PRODUCT
+Lights” -X- _ I-PRODUCT
+by -X- _ O
+The -X- _ B-PERSON
+Weeknd -X- _ I-PERSON
+. -X- _ O
+
+Anyone -X- _ O
+else -X- _ O
+excited -X- _ O
+for -X- _ O
+the -X- _ O
+FIFA -X- _ B-EVENT
+World -X- _ I-EVENT
+Cup -X- _ I-EVENT
+2026 -X- _ I-EVENT
+? -X- _ O
+
+Bought -X- _ O
+the -X- _ O
+new -X- _ O
+iPhone -X- _ B-PRODUCT
+15 -X- _ I-PRODUCT
+, -X- _ O
+it’s -X- _ O
+amazing -X- _ O
+! -X- _ O
+
+Throwback -X- _ O
+to -X- _ O
+my -X- _ O
+graduation -X- _ B-DATE
+day -X- _ I-DATE
+at -X- _ O
+Harvard -X- _ B-ORG
+University -X- _ I-ORG
+🎓 -X- _ O
+
+Follow -X- _ O
+me -X- _ O
+for -X- _ O
+daily -X- _ B-TIME
+tech -X- _ O
+updates -X- _ O
+: -X- _ O
+@ -X- _ O
+techguru -X- _ B-PERSON
+
+Watching -X- _ O
+The -X- _ B-PRODUCT
+Batman -X- _ I-PRODUCT
+at -X- _ O
+AMC -X- _ B-LOC
+Theaters -X- _ I-LOC
+tonight -X- _ B-TIME
+🍿 -X- _ O
+
+Shoutout -X- _ O
+to -X- _ O
+@ -X- _ O
+nike -X- _ B-ORG
+for -X- _ O
+their -X- _ O
+latest -X- _ B-PRODUCT
+sneaker -X- _ I-PRODUCT
+collection -X- _ I-PRODUCT
+! -X- _ O
+
+London -X- _ B-LOC
+weather -X- _ O
+is -X- _ O
+crazy -X- _ O
+in -X- _ O
+November -X- _ B-DATE
+🌧️ -X- _ O
+
+Celebrating -X- _ O
+Diwali -X- _ B-EVENT
+with -X- _ O
+family -X- _ O
+this -X- _ B-DATE
+year -X- _ I-DATE
+🪔 -X- _ O
+
+Just -X- _ O
+posted -X- _ O
+a -X- _ O
+new -X- _ O
+photo -X- _ O
+on -X- _ O
+Instagram -X- _ B-ORG
+: -X- _ O
+https -X- _ B-URL
+: -X- _ I-URL
+/ -X- _ I-URL
+/ -X- _ I-URL
+instagram.com -X- _ I-URL
+/ -X- _ I-URL
+p -X- _ I-URL
+/ -X- _ I-URL
+xyz -X- _ I-URL
+
+Anyone -X- _ O
+going -X- _ O
+to -X- _ O
+Coachella -X- _ B-LOC
+2025 -X- _ B-DATE
+? -X- _ O
+
+My -X- _ O
+favorite -X- _ O
+YouTube -X- _ B-ORG
+channel -X- _ O
+is -X- _ O
+MrBeast -X- _ B-PERSON
+🎥 -X- _ O
+
+Ordering -X- _ O
+pizza -X- _ O
+from -X- _ O
+Domino’s -X- _ B-ORG
+, -X- _ O
+what -X- _ O
+toppings -X- _ O
+do -X- _ O
+you -X- _ O
+suggest -X- _ O
+? -X- _ O
+
+Happy -X- _ O
+Birthday -X- _ O
+to -X- _ O
+my -X- _ O
+best -X- _ O
+friend -X- _ O
+@ -X- _ O
+sarah_jones -X- _ B-PERSON
+! -X- _ O
+
+Exploring -X- _ O
+Tokyo -X- _ B-LOC
+streets -X- _ O
+at -X- _ O
+night -X- _ B-TIME
+, -X- _ O
+neon -X- _ B-PRODUCT
+lights -X- _ I-PRODUCT
+everywhere -X- _ O
+✨ -X- _ O
+
+Love -X- _ O
+the -X- _ O
+new -X- _ O
+features -X- _ O
+in -X- _ O
+Android -X- _ B-PRODUCT
+14 -X- _ I-PRODUCT
+OS -X- _ I-PRODUCT
+. -X- _ O
+
+Can’t -X- _ O
+believe -X- _ O
+it’s -X- _ O
+been -X- _ O
+10 -X- _ B-DATE
+years -X- _ I-DATE
+since -X- _ O
+my -X- _ O
+first -X- _ O
+car -X- _ O
+, -X- _ O
+a -X- _ O
+Toyota -X- _ B-PRODUCT
+Corolla -X- _ I-PRODUCT
+🚗 -X- _ O
+
+Shoutout -X- _ O
+to -X- _ O
+@ -X- _ O
+NASA -X- _ B-ORG
+for -X- _ O
+the -X- _ O
+Mars -X- _ B-PRODUCT
+Rover -X- _ I-PRODUCT
+updates -X- _ O
+! -X- _ O
+
+Streaming -X- _ O
+Stranger -X- _ B-PRODUCT
+Things -X- _ I-PRODUCT
+on -X- _ O
+Netflix -X- _ B-ORG
+tonight -X- _ B-TIME
+. -X- _ O
+
+Visit -X- _ O
+the -X- _ O
+official -X- _ O
+website -X- _ O
+: -X- _ O
+https -X- _ B-URL
+: -X- _ I-URL
+/ -X- _ I-URL
+/ -X- _ I-URL
+www.nike.com -X- _ I-URL
+/ -X- _ I-URL
+sneakers -X- _ I-URL
+
+Just -X- _ O
+got -X- _ O
+tickets -X- _ O
+to -X- _ O
+Taylor -X- _ B-PERSON
+Swift’s -X- _ I-PERSON
+concert -X- _ B-EVENT
+in -X- _ O
+Los -X- _ B-LOC
+Angeles -X- _ I-LOC
+! -X- _ O
+
+Watching -X- _ O
+the -X- _ O
+sunset -X- _ B-TIME
+at -X- _ O
+Santorini -X- _ B-LOC
+🌅 -X- _ O
+
+Who -X- _ O
+else -X- _ O
+is -X- _ O
+using -X- _ O
+ChatGPT -X- _ B-PRODUCT
+for -X- _ O
+their -X- _ O
+projects -X- _ O
+? -X- _ O
+
+Amazon -X- _ B-ORG
+Prime -X- _ B-EVENT
+Day -X- _ I-EVENT
+deals -X- _ O
+are -X- _ O
+insane -X- _ O
+! -X- _ O
+
+Attending -X- _ O
+the -X- _ O
+TechCrunch -X- _ B-EVENT
+Disrupt -X- _ I-EVENT
+2024 -X- _ B-DATE
+event -X- _ O
+. -X- _ O
+
+Trying -X- _ O
+out -X- _ O
+the -X- _ O
+new -X- _ O
+Starbucks -X- _ B-ORG
+Pumpkin -X- _ B-PRODUCT
+Spice -X- _ I-PRODUCT
+Latte -X- _ I-PRODUCT
+🎃 -X- _ O
+
+Follow -X- _ O
+@ -X- _ O
+BBCNews -X- _ B-ORG
+for -X- _ O
+latest -X- _ O
+world -X- _ O
+updates -X- _ O
+. -X- _ O
+
+Hiking -X- _ O
+in -X- _ O
+Yosemite -X- _ B-LOC
+National -X- _ I-LOC
+Park -X- _ I-LOC
+this -X- _ B-DATE
+weekend -X- _ I-DATE
+. -X- _ O
+
+Just -X- _ O
+shared -X- _ O
+my -X- _ O
+thoughts -X- _ O
+on -X- _ O
+LinkedIn -X- _ B-ORG
+: -X- _ O
+https -X- _ B-URL
+: -X- _ I-URL
+/ -X- _ I-URL
+/ -X- _ I-URL
+linkedin.com -X- _ I-URL
+/ -X- _ I-URL
+pulse -X- _ I-URL
+/ -X- _ I-URL
+abc -X- _ I-URL
+
+Congrats -X- _ O
+to -X- _ O
+the -X- _ O
+Oscar -X- _ B-EVENT
+winners -X- _ O
+this -X- _ B-DATE
+year -X- _ I-DATE
+! -X- _ O
+🏆 -X- _ O
+
+Love -X- _ O
+listening -X- _ O
+to -X- _ O
+Billie -X- _ B-PERSON
+Eilish’s -X- _ I-PERSON
+new -X- _ B-PRODUCT
+album -X- _ I-PRODUCT
+on -X- _ O
+Spotify -X- _ B-ORG
+. -X- _ O
+
+Visiting -X- _ O
+New -X- _ B-LOC
+York -X- _ I-LOC
+City -X- _ I-LOC
+in -X- _ O
+April -X- _ B-DATE
+. -X- _ O
+
+Bought -X- _ O
+a -X- _ O
+new -X- _ O
+MacBook -X- _ B-PRODUCT
+Pro -X- _ I-PRODUCT
+for -X- _ O
+work -X- _ O
+! -X- _ O
+
+Can’t -X- _ O
+wait -X- _ O
+for -X- _ O
+Comic-Con -X- _ B-EVENT
+2025 -X- _ B-DATE
+! -X- _ O
+
+Watching -X- _ O
+live -X- _ O
+football -X- _ O
+on -X- _ O
+ESPN -X- _ B-ORG
+tonight -X- _ B-TIME
+⚽ -X- _ O
+
+Shoutout -X- _ O
+to -X- _ O
+@ -X- _ O
+adidas -X- _ B-ORG
+for -X- _ O
+their -X- _ O
+latest -X- _ O
+campaign -X- _ O
+. -X- _ O
+
+Just -X- _ O
+published -X- _ O
+a -X- _ O
+new -X- _ O
+blog -X- _ O
+post -X- _ O
+about -X- _ O
+AI -X- _ O
+trends -X- _ O
+: -X- _ O
+https -X- _ B-URL
+: -X- _ I-URL
+/ -X- _ I-URL
+/ -X- _ I-URL
+aiblog.com -X- _ I-URL
+
+Traveling -X- _ O
+from -X- _ O
+London -X- _ B-LOC
+to -X- _ O
+Rome -X- _ B-LOC
+next -X- _ B-DATE
+month -X- _ I-DATE
+. -X- _ O
+
+Happy -X- _ O
+anniversary -X- _ O
+@ -X- _ O
+john_doe -X- _ B-PERSON
+and -X- _ O
+@ -X- _ O
+jane_doe -X- _ B-PERSON
+❤️ -X- _ O
+
+The -X- _ B-LOC
+Louvre -X- _ I-LOC
+Museum -X- _ I-LOC
+is -X- _ O
+breathtaking -X- _ O
+🖼️ -X- _ O
+
+Following -X- _ O
+@ -X- _ O
+NASA_Hubble -X- _ B-ORG
+for -X- _ O
+space -X- _ O
+photography -X- _ O
+. -X- _ O
+
+Enjoying -X- _ O
+pizza -X- _ O
+at -X- _ O
+Pizza -X- _ B-LOC
+Hut -X- _ I-LOC
+tonight -X- _ B-TIME
+🍕 -X- _ O
+
+Excited -X- _ O
+for -X- _ O
+the -X- _ O
+launch -X- _ O
+of -X- _ O
+Tesla -X- _ B-PRODUCT
+Model -X- _ I-PRODUCT
+3 -X- _ I-PRODUCT
+in -X- _ O
+India -X- _ B-LOC
+. -X- _ O
+
+Reading -X- _ O
+“Atomic -X- _ B-PRODUCT
+Habits” -X- _ I-PRODUCT
+by -X- _ O
+James -X- _ B-PERSON
+Clear -X- _ I-PERSON
+. -X- _ O
+
+Celebrating -X- _ O
+New -X- _ B-EVENT
+Year -X- _ I-EVENT
+2025 -X- _ B-DATE
+in -X- _ O
+Sydney -X- _ B-LOC
+🎆 -X- _ O
+
+Can’t -X- _ O
+wait -X- _ O
+for -X- _ O
+the -X- _ O
+next -X- _ B-PRODUCT
+Marvel -X- _ I-PRODUCT
+movie -X- _ I-PRODUCT
+! -X- _ O
+
+Just -X- _ O
+signed -X- _ O
+up -X- _ O
+for -X- _ O
+AWS -X- _ B-EVENT
+re -X- _ I-EVENT
+: -X- _ I-EVENT
+Invent -X- _ I-EVENT
+2024 -X- _ B-DATE
+. -X- _ O
+
+Visiting -X- _ O
+Disneyland -X- _ B-LOC
+Paris -X- _ I-LOC
+with -X- _ O
+the -X- _ O
+family -X- _ O
+. -X- _ O
+
+Watching -X- _ O
+live -X- _ O
+updates -X- _ O
+on -X- _ O
+CNN -X- _ B-ORG
+. -X- _ O
+
+Attending -X- _ O
+a -X- _ O
+concert -X- _ B-EVENT
+by -X- _ O
+Ed -X- _ B-PERSON
+Sheeran -X- _ I-PERSON
+in -X- _ O
+London -X- _ B-LOC
+. -X- _ O
+
+Just -X- _ O
+tried -X- _ O
+the -X- _ O
+new -X- _ O
+Oreo -X- _ B-PRODUCT
+flavor -X- _ I-PRODUCT
+, -X- _ O
+so -X- _ O
+good -X- _ O
+! -X- _ O
+
+Follow -X- _ O
+me -X- _ O
+on -X- _ O
+TikTok -X- _ B-ORG
+: -X- _ O
+@ -X- _ O
+dancewithme -X- _ B-PERSON
+
+Going -X- _ O
+to -X- _ O
+the -X- _ O
+gym -X- _ O
+at -X- _ O
+Gold’s -X- _ B-LOC
+Gym -X- _ I-LOC
+every -X- _ B-TIME
+morning -X- _ I-TIME
+. -X- _ O
+
+Launching -X- _ O
+my -X- _ O
+startup -X- _ O
+next -X- _ B-DATE
+month -X- _ I-DATE
+, -X- _ O
+fingers -X- _ O
+crossed -X- _ O
+! -X- _ O
+
+Happy -X- _ O
+Thanksgiving -X- _ B-EVENT
+from -X- _ O
+my -X- _ O
+family -X- _ O
+to -X- _ O
+yours -X- _ O
+🦃 -X- _ O
+
+Enjoying -X- _ O
+a -X- _ O
+sunny -X- _ B-TIME
+day -X- _ I-TIME
+at -X- _ O
+Bondi -X- _ B-LOC
+Beach -X- _ I-LOC
+🏖️ -X- _ O
+
+Bought -X- _ O
+my -X- _ O
+first -X- _ O
+DSLR -X- _ B-PRODUCT
+camera -X- _ I-PRODUCT
+, -X- _ O
+Canon -X- _ B-PRODUCT
+EOS -X- _ I-PRODUCT
+90D -X- _ I-PRODUCT
+📷 -X- _ O
+
+Following -X- _ O
+@ -X- _ O
+BBCSport -X- _ B-ORG
+for -X- _ O
+match -X- _ O
+updates -X- _ O
+. -X- _ O
+
+Excited -X- _ O
+to -X- _ O
+attend -X- _ O
+the -X- _ O
+CES -X- _ B-EVENT
+2025 -X- _ B-DATE
+tech -X- _ O
+expo -X- _ O
+. -X- _ O
+
+Reading -X- _ O
+latest -X- _ O
+news -X- _ O
+on -X- _ O
+https -X- _ B-URL
+: -X- _ I-URL
+/ -X- _ I-URL
+/ -X- _ I-URL
+www.nytimes.com -X- _ I-URL
+
+Can’t -X- _ O
+stop -X- _ O
+listening -X- _ O
+to -X- _ O
+Drake’s -X- _ B-PERSON
+new -X- _ B-PRODUCT
+song -X- _ I-PRODUCT
+. -X- _ O
+
+Attending -X- _ O
+Wimbledon -X- _ B-LOC
+2025 -X- _ B-DATE
+, -X- _ O
+can’t -X- _ O
+wait -X- _ O
+🎾 -X- _ O
+
+Just -X- _ O
+ordered -X- _ O
+from -X- _ O
+KFC -X- _ B-ORG
+, -X- _ O
+craving -X- _ O
+fried -X- _ B-PRODUCT
+chicken -X- _ I-PRODUCT
+🍗 -X- _ O
+
+Shoutout -X- _ O
+to -X- _ O
+@ -X- _ O
+Starbucks -X- _ B-ORG
+for -X- _ O
+amazing -X- _ O
+customer -X- _ O
+service -X- _ O
+! -X- _ O
+
+Visiting -X- _ O
+the -X- _ O
+Grand -X- _ B-LOC
+Canyon -X- _ I-LOC
+this -X- _ B-TIME
+weekend -X- _ I-TIME
+🌄 -X- _ O
+
+Enjoying -X- _ O
+sushi -X- _ B-PRODUCT
+at -X- _ O
+Sushi -X- _ B-LOC
+Samba -X- _ I-LOC
+tonight -X- _ B-TIME
+🍣 -X- _ O
+
+Just -X- _ O
+finished -X- _ O
+a -X- _ O
+marathon -X- _ B-EVENT
+in -X- _ O
+Boston -X- _ B-LOC
+🏃‍♂️ -X- _ O
+
+Following -X- _ O
+@ -X- _ O
+WHO -X- _ B-ORG
+for -X- _ O
+health -X- _ O
+updates -X- _ O
+. -X- _ O
+
+Can’t -X- _ O
+believe -X- _ O
+it’s -X- _ O
+raining -X- _ O
+in -X- _ O
+Miami -X- _ B-LOC
+again -X- _ O
+☔ -X- _ O
+
+Sharing -X- _ O
+my -X- _ O
+artwork -X- _ O
+on -X- _ O
+DeviantArt -X- _ B-ORG
+: -X- _ O
+https -X- _ B-URL
+: -X- _ I-URL
+/ -X- _ I-URL
+/ -X- _ I-URL
+deviantart.com -X- _ I-URL
+/ -X- _ I-URL
+myart -X- _ I-URL
+
+Excited -X- _ O
+for -X- _ O
+the -X- _ O
+launch -X- _ O
+of -X- _ O
+Google -X- _ B-PRODUCT
+Pixel -X- _ I-PRODUCT
+10 -X- _ I-PRODUCT
+. -X- _ O
+
+Watching -X- _ O
+live -X- _ O
+cricket -X- _ O
+on -X- _ O
+Star -X- _ B-ORG
+Sports -X- _ I-ORG
+. -X- _ O
+
+Happy -X- _ O
+Holi -X- _ B-EVENT
+everyone -X- _ O
+! -X- _ O
+🌈 -X- _ O
+
+Just -X- _ O
+attended -X- _ O
+the -X- _ O
+World -X- _ B-EVENT
+Economic -X- _ I-EVENT
+Forum -X- _ I-EVENT
+in -X- _ O
+Davos -X- _ B-LOC
+. -X- _ O
+
+Buying -X- _ B-LOC
+tickets -X- _ I-LOC
+for -X- _ I-LOC
+Hamilton -X- _ I-LOC
+in -X- _ I-LOC
+New -X- _ I-LOC
+York -X- _ I-LOC
+. -X- _ I-LOC
+
+Exploring -X- _ O
+street -X- _ O
+food -X- _ O
+in -X- _ O
+Bangkok -X- _ B-LOC
+🍜 -X- _ O
+
+Can’t -X- _ O
+wait -X- _ O
+to -X- _ O
+see -X- _ O
+the -X- _ O
+new -X- _ O
+Samsung -X- _ B-ORG
+Galaxy -X- _ B-PRODUCT
+foldable -X- _ I-PRODUCT
+phone -X- _ I-PRODUCT
+. -X- _ O
+
+Following -X- _ O
+@ -X- _ O
+NASA -X- _ B-ORG
+for -X- _ O
+daily -X- _ O
+space -X- _ O
+updates -X- _ O
+. -X- _ O
+
+Just -X- _ O
+shared -X- _ O
+a -X- _ O
+new -X- _ O
+reel -X- _ O
+on -X- _ O
+Instagram -X- _ B-ORG
+: -X- _ O
+https -X- _ B-URL
+: -X- _ I-URL
+/ -X- _ I-URL
+/ -X- _ I-URL
+instagram.com -X- _ I-URL
+/ -X- _ I-URL
+reel -X- _ I-URL
+/ -X- _ I-URL
+xyz -X- _ I-URL
+
+Celebrating -X- _ O
+Halloween -X- _ B-EVENT
+with -X- _ O
+friends -X- _ O
+🎃 -X- _ O
+
+Reading -X- _ O
+“Sapiens” -X- _ B-PRODUCT
+by -X- _ O
+Yuval -X- _ B-PERSON
+Noah -X- _ I-PERSON
+Harari -X- _ I-PERSON
+📖 -X- _ O
+
+Watching -X- _ O
+the -X- _ O
+Formula -X- _ B-EVENT
+1 -X- _ I-EVENT
+Grand -X- _ I-EVENT
+Prix -X- _ I-EVENT
+live -X- _ O
+🏎️ -X- _ O
+
+Attending -X- _ O
+SXSW -X- _ B-EVENT
+2025 -X- _ I-EVENT
+in -X- _ O
+Austin -X- _ B-LOC
+, -X- _ I-LOC
+Texas -X- _ I-LOC
+. -X- _ I-LOC
+
+Shoutout -X- _ O
+to -X- _ O
+@ -X- _ O
+Pepsi -X- _ B-ORG
+for -X- _ O
+their -X- _ O
+new -X- _ O
+ad -X- _ O
+campaign -X- _ O
+. -X- _ O
+
+Hiking -X- _ O
+in -X- _ O
+the -X- _ O
+Rocky -X- _ B-LOC
+Mountains -X- _ I-LOC
+this -X- _ B-DATE
+summer -X- _ I-DATE
+. -X- _ O
+
+Just -X- _ O
+tried -X- _ O
+vegan -X- _ B-PRODUCT
+burgers -X- _ I-PRODUCT
+from -X- _ O
+Beyond -X- _ B-ORG
+Meat -X- _ I-ORG
+🍔 -X- _ O
+
+Following -X- _ O
+@ -X- _ O
+TechCrunch -X- _ B-ORG
+for -X- _ O
+startup -X- _ O
+news -X- _ O
+. -X- _ O
+
+Excited -X- _ O
+for -X- _ O
+the -X- _ O
+next -X- _ O
+season -X- _ O
+of -X- _ O
+The -X- _ B-PRODUCT
+Witcher -X- _ I-PRODUCT
+on -X- _ O
+Netflix -X- _ B-ORG
+. -X- _ O
+
+Attending -X- _ O
+the -X- _ O
+Cannes -X- _ B-EVENT
+Film -X- _ I-EVENT
+Festival -X- _ I-EVENT
+2025 -X- _ B-DATE
+🎬 -X- _ O
+
+Just -X- _ O
+bought -X- _ O
+concert -X- _ B-EVENT
+tickets -X- _ O
+for -X- _ O
+BTS -X- _ B-PERSON
+in -X- _ O
+Seoul -X- _ B-LOC
+! -X- _ O
+
+Visiting -X- _ O
+Kyoto -X- _ B-LOC
+during -X- _ O
+cherry -X- _ B-TIME
+blossom -X- _ I-TIME
+season -X- _ I-TIME
+🌸 -X- _ O
+
+Watching -X- _ O
+live -X- _ O
+updates -X- _ O
+on -X- _ O
+BBC -X- _ B-ORG
+News -X- _ I-ORG
+. -X- _ O
+
+Can’t -X- _ O
+wait -X- _ O
+for -X- _ O
+Halloween -X- _ B-EVENT
+party -X- _ B-EVENT
+at -X- _ O
+my -X- _ O
+friend’s -X- _ O
+place -X- _ O
+🎃 -X- _ O
+
+Sharing -X- _ O
+my -X- _ O
+photography -X- _ O
+on -X- _ O
+Instagram -X- _ B-PERSON
+: -X- _ O
+@ -X- _ O
+photo_world -X- _ B-PERSON
+
+Enjoying -X- _ O
+coffee -X- _ O
+at -X- _ O
+Costa -X- _ B-LOC
+Coffee -X- _ I-LOC
+this -X- _ B-TIME
+morning -X- _ I-TIME
+☕ -X- _ O
+
