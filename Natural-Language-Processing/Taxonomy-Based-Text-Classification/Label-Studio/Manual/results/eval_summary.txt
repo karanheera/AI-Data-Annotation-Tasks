@@ -1,0 +1,10 @@
+Evaluation Summary (Taxonomy Annotations)
+-------------------------------------------
+Total annotations: 100
+Incomplete annotations: 0
+Annotation completeness: 100.00%
+Missing taxonomy labels: 0
+Missing texts: 0
+Duplicate texts: 0
+Inconsistent taxonomy pairs: 0
+Text length (words) - min: 7, max: 15, avg: 9.63

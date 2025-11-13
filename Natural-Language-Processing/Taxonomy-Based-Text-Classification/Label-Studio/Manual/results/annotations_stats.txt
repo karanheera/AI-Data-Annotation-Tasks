@@ -1,0 +1,36 @@
+Total annotations: 100
+
+Level 1 Taxonomy Counts:
+- Sports: 23
+- Entertainment: 19
+- Technology: 31
+- Health: 27
+
+Level 2 Taxonomy Counts:
+- Basketball: 8
+- Movies: 7
+- AI: 14
+- Mental Health: 8
+- Gadgets: 11
+- Fitness: 12
+- Music: 8
+- Nutrition: 7
+- Tennis: 6
+- Software: 6
+- Football: 9
+- TV Shows: 4
+
+Missing taxonomy labels: 0
+Incomplete annotations: 0
+Annotation completeness: 100.00%
+Missing texts: 0
+Duplicate texts: 0
+Text length (words) - min: 7, max: 15, avg: 9.63
+
+Imbalance Ratio (vs. largest class):
+- Sports: 0.74
+- Entertainment: 0.61
+- Technology: 1.0
+- Health: 0.87
+
+Inconsistent taxonomy pairs:
