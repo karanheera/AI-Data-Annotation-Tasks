@@ -1,0 +1,17 @@
+Total annotations: 100
+
+Label counts:
+Positive: 37
+Negative: 42
+Neutral: 21
+
+Label distribution:
+Positive: 37.00%
+Negative: 42.00%
+Neutral: 21.00%
+
+Missing labels: 0
+Unexpected labels: []
+Missing texts: 0
+Duplicate texts: 0
+Text length (words) - min: 5, max: 11, avg: 7.79

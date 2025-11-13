@@ -1,0 +1,6 @@
+Total annotations: 100
+Missing labels: 0
+Unexpected labels: []
+Missing texts: 0
+Duplicate texts: 0
+Text length (words) - min: 5, max: 11, avg: 7.79
