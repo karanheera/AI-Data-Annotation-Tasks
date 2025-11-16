@@ -1,0 +1,5 @@
+num_annotation_tasks: 100
+num_entities: 239
+num_relations: 152
+unique_entity_labels: ['ORG', 'PER', 'DATE', 'CITY', 'STATE/PROVINCE', 'TITLE', 'LOC', 'COUNTRY', 'DATETIME', 'None', 'NUM']
+unique_relation_labels: ['org:founded_by', 'org:founded', 'per:city_of_birth', 'per:stateorprovince_of_birth', 'org:city_of_headquarters', 'org:stateorprovince_of_headquarters', 'org:top_members/employees', 'per:employee_of', 'per:title', 'per:cities_of_residence', 'per:stateorprovinces_of_residence', 'org:parents', 'org:subsidiaries', 'no_relation', 'per:schools_attended', 'per:spouse', 'org:country_of_headquarters', 'per:date_of_death', 'per:children', 'per:country_of_birth', 'per:parents', 'per:religion', 'per:siblings', 'per:stateorprovince_of_death', 'org:dissolved', 'org:member_of', 'org:members', 'org:number_of_employees/members', 'org:political/religious_affiliation', 'org:shareholders', 'per:age', 'per:country_of_death', 'org:alternate_names']

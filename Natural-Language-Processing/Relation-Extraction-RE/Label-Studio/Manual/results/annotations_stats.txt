@@ -1,0 +1,47 @@
+=== Entity Counts ===
+ORG: 76
+PER: 71
+DATE: 3
+CITY: 16
+STATE/PROVINCE: 13
+TITLE: 15
+LOC: 19
+COUNTRY: 13
+DATETIME: 10
+None: 1
+NUM: 2
+
+=== Relation Counts ===
+org:founded_by: 14
+org:founded: 7
+per:city_of_birth: 4
+per:stateorprovince_of_birth: 4
+org:city_of_headquarters: 8
+org:stateorprovince_of_headquarters: 5
+org:top_members/employees: 6
+per:employee_of: 10
+per:title: 15
+per:cities_of_residence: 6
+per:stateorprovinces_of_residence: 2
+org:parents: 5
+org:subsidiaries: 4
+no_relation: 11
+per:schools_attended: 4
+per:spouse: 4
+org:country_of_headquarters: 4
+per:date_of_death: 2
+per:children: 3
+per:country_of_birth: 4
+per:parents: 4
+per:religion: 2
+per:siblings: 3
+per:stateorprovince_of_death: 3
+org:dissolved: 2
+org:member_of: 3
+org:members: 3
+org:number_of_employees/members: 2
+org:political/religious_affiliation: 2
+org:shareholders: 2
+per:age: 1
+per:country_of_death: 1
+org:alternate_names: 2
