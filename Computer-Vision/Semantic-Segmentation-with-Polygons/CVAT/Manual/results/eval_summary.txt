@@ -1,0 +1,8 @@
+=== Dataset Validation Summary ===
+
+All images have file_name fields.
+
+All polygons valid.
+
+All annotation areas > 0.
+

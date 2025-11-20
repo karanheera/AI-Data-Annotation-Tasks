@@ -1,0 +1,82 @@
+=== Semantic Segmentation Annotation Statistics ===
+
+Total Images: 21
+Total Annotations: 336
+
+Annotations Per Category:
+- Snow: 48
+- Mountain: 3
+- Soil: 7
+- Clouds: 2
+- Farmland: 5
+- Road: 12
+- Grass: 20
+- Runway: 4
+- Taxiway: 2
+- Building: 22
+- Product: 35
+- Shelf: 4
+- Floor: 4
+- Ambulance: 1
+- Sidewalk: 5
+- Trees: 11
+- Sky: 7
+- Poles: 7
+- Traffic_Lights: 5
+- Car: 35
+- Train: 2
+- Background: 1
+- Pupil: 1
+- Iris: 1
+- Fruit: 27
+- Vegetation: 9
+- Highway: 1
+- Water: 3
+- Sofa: 1
+- Bed: 1
+- Walls: 1
+- Birds: 4
+- Flowers: 2
+- Table: 2
+- Bowl: 1
+- Racks: 19
+- Bridge: 1
+- Phone_Parts: 3
+- Damaged_Area: 2
+- Fence: 2
+- Bus_Stop: 1
+- Car_Parts: 2
+- Pan: 1
+- Vegetables: 1
+- Person: 1
+- Umbrella: 1
+- Bus: 5
+- Parking_Lot: 1
+
+Annotations Per Image:
+- Image 1: 52
+- Image 2: 29
+- Image 3: 40
+- Image 4: 31
+- Image 5: 3
+- Image 6: 27
+- Image 7: 15
+- Image 8: 2
+- Image 9: 5
+- Image 10: 7
+- Image 11: 10
+- Image 12: 2
+- Image 13: 16
+- Image 14: 11
+- Image 15: 5
+- Image 16: 16
+- Image 17: 19
+- Image 18: 1
+- Image 19: 2
+- Image 20: 16
+- Image 21: 27
+
+Area Statistics:
+- Min: 4.00
+- Max: 614400.00
+- Mean: 20433.45
