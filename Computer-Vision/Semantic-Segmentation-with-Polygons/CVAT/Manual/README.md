@@ -169,7 +169,7 @@ jupyter notebook notebooks/sem_seg_polygon_annotations.ipynb
 
 ---
 
-## 🧪 Sample Numbers (From This Dataset)
+## Sample Numbers (From the Dataset)
 
 **Total Images:** 21
 **Total Categories:** 49
@@ -269,7 +269,7 @@ This project highlights strong skills in:
 
 A complete, professional, annotation-only workflow for computer vision segmentation datasets.
 
-## 📸 Special Thanks & Image Credits
+## Special Thanks & Image Credits
 
 This semantic segmentation project was made possible using a curated set of images sourced manually from:
 
