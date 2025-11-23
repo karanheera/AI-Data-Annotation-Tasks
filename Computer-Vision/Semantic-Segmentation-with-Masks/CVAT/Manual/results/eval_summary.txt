@@ -1,0 +1,7 @@
+=== Evaluation Summary (Basic Quality Checks) ===
+
+Zero area annotations: 0
+Invalid annotations: 0
+Mean mask area: 714780.35
+Median mask area: 12382.00
+Max mask area: 24674684.00

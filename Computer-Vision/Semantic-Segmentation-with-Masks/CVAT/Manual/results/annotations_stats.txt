@@ -1,0 +1,84 @@
+=== Annotation Statistics ===
+
+Total Images: 21
+Total Annotations: 203
+Total Categories: 48
+
+--- Annotations per Image ---
+kitchen-7850353_640.jpg: 24
+koli-bacteria-123081_640.jpg: 31
+lamb-5733685_640.jpg: 4
+lawn-mower-4502093_640.jpg: 2
+library-488690_640.jpg: 20
+lockdown-5061663_640.jpg: 9
+london-2928889_640.jpg: 15
+main-board-89049_640.jpg: 16
+map-11043_640.jpg: 4
+mariia-ioffe-Sfs21Re13BU-unsplash.jpg: 7
+motor-7903404_640.jpg: 4
+operating-room-5979687_640.jpg: 4
+parking-lot-4061323_640.jpg: 12
+pedestrian-2618280_640.jpg: 5
+penguin-8875750_640.jpg: 2
+pets-1356191_640.jpg: 4
+pexels-brettjordan-2746823.jpg: 2
+pexels-hannaauramenka-8409850.jpg: 21
+pexels-heyho-7046168.jpg: 10
+pexels-samiro-2172137.jpg: 2
+pexels-tara-winstead-6692933.jpg: 5
+
+--- Annotations per Category ---
+Cabinets: 13
+Background: 9
+Floor: 5
+Chimney: 1
+DishWasher: 1
+Drawers: 1
+Shelf: 1
+Sink: 1
+Faucet: 1
+Oven: 2
+Cooktop: 1
+Bacteria: 30
+Sheep: 2
+Trees: 2
+Grass: 2
+Lawn_Mower: 1
+Books: 9
+Racks: 9
+Person_Carrying: 9
+Building: 2
+Road: 2
+Car: 16
+Bus: 3
+Sky: 3
+Person: 6
+Chip: 3
+Transistors: 12
+Circuit: 1
+Vegetation: 2
+River: 1
+Sea: 1
+Land: 1
+Skin_Lesions: 6
+Skin: 1
+Machinery: 2
+Boxes: 1
+Lights: 1
+Table: 2
+Parking_Lot: 1
+Water: 1
+Penguin: 1
+Dog: 1
+Vinyl: 1
+Cirlces: 4
+Rectangles: 19
+Chair: 7
+Hand: 1
+Shape: 1
+
+--- Zero Area Masks ---
+
+
+--- Invalid Annotations (missing segmentation) ---
+
