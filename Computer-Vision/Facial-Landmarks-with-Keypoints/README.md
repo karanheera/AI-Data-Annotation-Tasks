@@ -10,9 +10,9 @@ The projects focus entirely on **annotation quality**, **dataset completeness**,
 
 | Subproject                                                                 | Keypoints | Description                                                                                                                                                                           |
 | -------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [5-Keypoints](./5-Keypoints)   | 5         | Minimal facial keypoints (eyes, nose, mouth corners) for coarse facial landmark representation. Includes annotation guidelines, analysis notebook, and distribution report.           |
-| [21-Keypoints](./21-Keypoints) | 21        | Medium-detail facial landmarks (jawline, eyebrows, eyes, nose, mouth). Provides dataset statistics, keypoint quality checks, distribution plots, and Markdown reporting.              |
-| [68-Keypoints](./68-Keypoints) | 68        | Full detailed facial landmarks (jawline, eyebrows, eyes, nose, mouth, lips). Includes complete annotation analysis, quality validation, distribution plots, and GitHub-ready reports. |
+| [5-Keypoints](./5-Keypoints/CVAT/Manual)   | 5         | Minimal facial keypoints (eyes, nose, mouth corners) for coarse facial landmark representation. Includes annotation guidelines, analysis notebook, and distribution report.           |
+| [21-Keypoints](./21-Keypoints/CVAT/Manual) | 21        | Medium-detail facial landmarks (jawline, eyebrows, eyes, nose, mouth). Provides dataset statistics, keypoint quality checks, distribution plots, and Markdown reporting.              |
+| [68-Keypoints](./68-Keypoints/CVAT/Manual) | 68        | Full detailed facial landmarks (jawline, eyebrows, eyes, nose, mouth, lips). Includes complete annotation analysis, quality validation, distribution plots, and GitHub-ready reports. |
 
 ---
 
