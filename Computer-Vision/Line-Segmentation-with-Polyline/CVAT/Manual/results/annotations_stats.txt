@@ -1,0 +1,27 @@
+=== Polyline Annotation Statistics ===
+
+Total Images: 6
+Total Annotations: 86
+Total Labels: 12
+
+--- Annotations per Image ---
+pexels-brett-sayles-3459729.jpg: 32
+pexels-madsdonald-2739013.jpg: 3
+pexels-oficialwallace-23879553.jpg: 20
+pexels-starry-moonfairy-2151926846-34802671.jpg: 2
+pexels-thilina-alagiyawanna-3266092-34790002.jpg: 19
+pexels-zetong-li-880728-13826124.jpg: 10
+
+--- Annotations per Label ---
+Tree_branches: 31
+Tree_Stem: 1
+Lane_left_boundary: 1
+Lane_center_solid: 1
+Lane_right_boundary: 1
+Crack_line: 20
+Rail_track_line: 2
+Electricity_line: 19
+River_centerline: 10
+
+--- Invalid Annotations (missing points) ---
+

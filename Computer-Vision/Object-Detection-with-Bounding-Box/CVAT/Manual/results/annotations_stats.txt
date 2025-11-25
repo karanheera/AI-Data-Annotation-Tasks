@@ -1,0 +1,75 @@
+=== Annotation Statistics ===
+
+Total Images: 21
+Total Annotations: 335
+Total Categories: 40
+
+--- Annotations per Image ---
+store-9746842_640.jpg: 6
+store-window-213496_640.jpg: 5
+street-4768502_640.jpg: 15
+street-705910_640.jpg: 5
+study-789631_640.jpg: 8
+technology-791029_640.jpg: 8
+tissue-6537455_640.jpg: 4
+tools-2209756_640.jpg: 4
+traffic-4003342_640.jpg: 9
+traffic-7272520_640.jpg: 33
+traffic-966701_1280.jpg: 120
+tunnel-1845046_640.jpg: 1
+valencia-2262321_640.jpg: 70
+vanessa-bucceri-gDiRwIYAMA8-unsplash.jpg: 12
+wheel-2137043_640.jpg: 11
+woman-1845517_640.jpg: 3
+x-ray-image-568241_640.jpg: 1
+xray-x-ray-2764828_640.jpg: 3
+yoga-1146277_640.jpg: 1
+young-corn-6312192_640.jpg: 1
+zagreb-2582608_640.jpg: 15
+
+--- Annotations per Category ---
+Toilet: 2
+Bathroom_Cubicle: 1
+Mirror: 1
+Cabinet: 2
+Faucet: 1
+Mannequin: 5
+Person: 31
+Umbrella: 2
+Sign_Board: 50
+Car: 162
+Rickshaw: 1
+Auto: 8
+Motorcycles: 1
+Bicycle: 1
+Box: 2
+Plant: 1
+Chair: 2
+Laptop: 2
+Table: 1
+Camera: 2
+Books: 1
+Mobile: 1
+Tablet: 1
+Arm: 3
+Hand: 2
+Machinery: 1
+Bottle: 1
+Tool: 1
+Traffic_Lights: 7
+Bus: 4
+Truck: 3
+Pipes: 7
+Toys: 12
+Valves: 5
+Technology: 1
+Bird: 1
+Fracture: 4
+Fields: 1
+Tramp: 1
+
+--- Zero Area BBoxes ---
+
+
+--- Invalid Annotations ---
+

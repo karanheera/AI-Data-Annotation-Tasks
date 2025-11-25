@@ -1,0 +1,6 @@
+=== Evaluation Summary (Point Quality Checks) ===
+
+Invalid Annotations (missing/out-of-bound): 0
+Mean points per image: 68.00
+Median points per image: 68.00
+Max points per image: 68.00

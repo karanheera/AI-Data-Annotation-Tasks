@@ -1,0 +1,7 @@
+=== Evaluation Summary (Bounding Box Quality Checks) ===
+
+Zero area annotations: 0
+Invalid annotations: 0
+Mean bbox area: 55839.77
+Median bbox area: 809.36
+Max bbox area: 3400941.90

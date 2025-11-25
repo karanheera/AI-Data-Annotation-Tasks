@@ -1,0 +1,37 @@
+=== Facial Landmarks 21-Keypoints Annotation Statistics ===
+
+Total Images: 5
+Total Annotations (points): 105
+Total Labels: 21
+
+--- Annotations per Image ---
+1.jpg: 21
+2.jpg: 21
+3.jpg: 21
+4.jpg: 21
+5.jpg: 21
+
+--- Annotations per Label ---
+5_Left Arch Eyebrow: 5
+6_Left Outer Eyebrow: 5
+7_Nose Tip: 5
+8_Right Nostril: 5
+9_Left Nostril: 5
+10_Right Outer Eye: 5
+11_Right Middle Top Lid Eye: 5
+12_Right Inner Eye: 5
+13_Right Middle Lower Eye Lid: 5
+14_Left Inner Eye: 5
+1_Right Outer Eyebrow: 5
+2_Right Arch Eyebrow: 5
+3_Right Inner Eyebrow: 5
+4_Left Inner Eyebrow: 5
+15_Left Middle Eye: 5
+16_Left Outer Eye: 5
+17_Left Middle Lower Eye: 5
+18_Right Mouth Corner: 5
+19_Middle Upper Lip: 5
+20_Left Mouth Corner: 5
+21_Middle Lower Lip: 5
+
+--- Invalid Annotations (missing or out-of-bound points) ---

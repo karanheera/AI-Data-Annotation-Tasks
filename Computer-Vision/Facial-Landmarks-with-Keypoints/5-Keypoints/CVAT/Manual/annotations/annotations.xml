@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>10</id>
+      <size>5</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-11-23 18:08:43.585247+00:00</created>
+      <updated>2025-11-24 02:40:33.280834+00:00</updated>
+      <subset>Train</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>4</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>10</id>
+          <start>0</start>
+          <stop>4</stop>
+          <url>http://localhost:8080/api/jobs/10</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>karanheera</username>
+        <email>karanheera@gmail.com</email>
+      </owner>
+      <assignee>
+        <username>karanheera</username>
+        <email>karanheera@gmail.com</email>
+      </assignee>
+      <labels>
+        <label>
+          <name>1_Right eye</name>
+          <color>#70098c</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>2_Left eye</name>
+          <color>#4f4cf2</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>3_Nose tip</name>
+          <color>#118154</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>4_Mouth right corner</name>
+          <color>#9ee28c</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>5_Mouth left corner</name>
+          <color>#d8ffe4</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-11-24 02:44:39.513059+00:00</dumped>
+  </meta>
+  <image id="0" name="1.jpg" width="3423" height="4532">
+    <points label="1_Right eye" source="manual" occluded="0" points="1171.34,2241.11" z_order="0">
+    </points>
+    <points label="2_Left eye" source="manual" occluded="0" points="2382.97,2127.04" z_order="0">
+    </points>
+    <points label="3_Nose tip" source="manual" occluded="0" points="1891.30,2938.40" z_order="0">
+    </points>
+    <points label="4_Mouth right corner" source="manual" occluded="0" points="1385.37,3575.60" z_order="0">
+    </points>
+    <points label="5_Mouth left corner" source="manual" occluded="0" points="2450.77,3448.36" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="2.jpg" width="3032" height="3256">
+    <points label="1_Right eye" source="manual" occluded="0" points="991.00,1360.36" z_order="0">
+    </points>
+    <points label="2_Left eye" source="manual" occluded="0" points="1883.43,1335.04" z_order="0">
+    </points>
+    <points label="3_Nose tip" source="manual" occluded="0" points="1454.53,1658.82" z_order="0">
+    </points>
+    <points label="4_Mouth right corner" source="manual" occluded="0" points="1075.49,2294.84" z_order="0">
+    </points>
+    <points label="5_Mouth left corner" source="manual" occluded="0" points="1870.87,2259.96" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="3.jpg" width="1053" height="1205">
+    <points label="1_Right eye" source="manual" occluded="0" points="389.59,656.81" z_order="0">
+    </points>
+    <points label="2_Left eye" source="manual" occluded="0" points="655.32,662.78" z_order="0">
+    </points>
+    <points label="3_Nose tip" source="manual" occluded="0" points="523.50,841.68" z_order="0">
+    </points>
+    <points label="4_Mouth right corner" source="manual" occluded="0" points="404.61,951.27" z_order="0">
+    </points>
+    <points label="5_Mouth left corner" source="manual" occluded="0" points="642.10,955.90" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="4.jpg" width="2237" height="2379">
+    <points label="1_Right eye" source="manual" occluded="0" points="840.94,1201.44" z_order="0">
+    </points>
+    <points label="2_Left eye" source="manual" occluded="0" points="1426.83,1279.56" z_order="0">
+    </points>
+    <points label="3_Nose tip" source="manual" occluded="0" points="1077.10,1718.00" z_order="0">
+    </points>
+    <points label="4_Mouth right corner" source="manual" occluded="0" points="794.92,1943.62" z_order="0">
+    </points>
+    <points label="5_Mouth left corner" source="manual" occluded="0" points="1279.04,1991.03" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="5.jpg" width="850" height="1013">
+    <points label="1_Right eye" source="manual" occluded="0" points="288.50,420.90" z_order="0">
+    </points>
+    <points label="2_Left eye" source="manual" occluded="0" points="546.91,435.53" z_order="0">
+    </points>
+    <points label="3_Nose tip" source="manual" occluded="0" points="421.70,617.70" z_order="0">
+    </points>
+    <points label="4_Mouth right corner" source="manual" occluded="0" points="253.03,680.01" z_order="0">
+    </points>
+    <points label="5_Mouth left corner" source="manual" occluded="0" points="555.77,687.96" z_order="0">
+    </points>
+  </image>
+</annotations>

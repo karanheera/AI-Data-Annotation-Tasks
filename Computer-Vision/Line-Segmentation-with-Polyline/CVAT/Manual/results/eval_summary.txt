@@ -1,0 +1,6 @@
+=== Evaluation Summary (Polyline Quality Checks) ===
+
+Invalid annotations: 0
+Mean points per polyline: 8.37
+Median points per polyline: 6.00
+Max points per polyline: 41.00

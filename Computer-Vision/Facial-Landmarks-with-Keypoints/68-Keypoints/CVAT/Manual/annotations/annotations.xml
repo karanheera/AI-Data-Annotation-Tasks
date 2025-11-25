@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>12</id>
+      <size>5</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-11-23 18:16:58.578147+00:00</created>
+      <updated>2025-11-24 11:21:43.173049+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>4</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>12</id>
+          <start>0</start>
+          <stop>4</stop>
+          <url>http://localhost:8080/api/jobs/12</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>karanheera</username>
+        <email>karanheera@gmail.com</email>
+      </owner>
+      <assignee>
+        <username>karanheera</username>
+        <email>karanheera@gmail.com</email>
+      </assignee>
+      <labels>
+        <label>
+          <name>0_Jawline rightmost</name>
+          <color>#c9cf7b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>1_Jawline</name>
+          <color>#bc167e</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>2_Jawline</name>
+          <color>#d97706</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>3_Jawline</name>
+          <color>#342234</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>4_Jawline</name>
+          <color>#f59fa3</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>5_Jawline</name>
+          <color>#263ae5</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>6_Jawline</name>
+          <color>#93ba7c</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>7_Jawline</name>
+          <color>#fdab77</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>8_Jawline</name>
+          <color>#63b7d0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>9_Jawline</name>
+          <color>#311cf6</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>10_Jawline</name>
+          <color>#25faa7</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>11_Jawline</name>
+          <color>#dffc5f</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>12_Jawline</name>
+          <color>#e2a736</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>13_Jawline</name>
+          <color>#61d609</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>14_Jawline</name>
+          <color>#d11aae</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>15_Jawline</name>
+          <color>#b718be</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>16_Jawline leftmost</name>
+          <color>#b5fd33</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>17_Right eyebrow outer end</name>
+          <color>#467efb</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>18_Right eyebrow</name>
+          <color>#a967e9</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>19_Right eyebrow</name>
+          <color>#e7e7ff</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>20_Right eyebrow</name>
+          <color>#4772b8</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>21_Right eyebrow inner end</name>
+          <color>#99ff93</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>22_Left eyebrow inner end</name>
+          <color>#feaa45</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>23_Left eyebrow</name>
+          <color>#49996b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>24_Left eyebrow</name>
+          <color>#29bf19</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>25_Left eyebrow</name>
+          <color>#3dc83c</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>26_Left eyebrow outer end</name>
+          <color>#a15b06</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>27_Nose bridge top</name>
+          <color>#f26ccb</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>28_Nose bridge</name>
+          <color>#3d2029</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>29_Nose bridge Bottom</name>
+          <color>#de768b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>30_Nose Tip Center</name>
+          <color>#608d6f</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>31_Right nostril edge</name>
+          <color>#274892</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>32_Nose tip right</name>
+          <color>#457c2a</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>33_Nose tip bottom</name>
+          <color>#4918d0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>34_Nose tip left</name>
+          <color>#6f69ae</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>35_Left nostril edge</name>
+          <color>#8e8430</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>36_Right eye outer corner</name>
+          <color>#41cd0d</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>37_Right eye upper eyelid 1</name>
+          <color>#42da21</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>38_Right eye upper eyelid 2</name>
+          <color>#e2b92c</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>39_Right eye inner corner</name>
+          <color>#401783</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>40_Right eye lower eyelid 2</name>
+          <color>#ab5701</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>41_Right eye lower eyelid 1</name>
+          <color>#682630</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>42_Left eye inner corner</name>
+          <color>#61b31c</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>43_Left eye upper eyelid 1</name>
+          <color>#e31b11</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>44_Left eye upper eyelid 2</name>
+          <color>#0eb55c</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>45_Left eye outer corner</name>
+          <color>#2938f0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>46_Left eye lower eyelid 1</name>
+          <color>#e55b09</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>47_Left eye lower eyelid 2</name>
+          <color>#4607cc</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>48_Mouth right corner</name>
+          <color>#2b6f30</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>49_Upper lip right mid</name>
+          <color>#76cd83</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>50_Upper lip center-right</name>
+          <color>#8ed8b8</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>51_Upper lip center</name>
+          <color>#9ac315</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>52_Upper lip center-left</name>
+          <color>#d7d408</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>53_Upper lip left mid</name>
+          <color>#87709e</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>54_Mouth left corner</name>
+          <color>#f4b31c</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>55_Lower lip left mid</name>
+          <color>#24d10e</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>56_Lower lip center-left</name>
+          <color>#d7e81d</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>57_Lower lip center</name>
+          <color>#06f550</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>58_Lower lip center-right</name>
+          <color>#93d436</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>59_Lower lip right mid</name>
+          <color>#f479d2</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>60_Inner upper lip right</name>
+          <color>#83f68d</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>61_Inner upper lip center-right</name>
+          <color>#90c811</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>62_Inner upper lip center</name>
+          <color>#ddda4d</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>63_Inner upper lip center-left</name>
+          <color>#aaa165</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>64_Inner upper lip left</name>
+          <color>#df2ede</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>65_Inner lower lip left</name>
+          <color>#8ed6ef</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>66_Inner lower lip center</name>
+          <color>#a69cdf</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>67_Inner lower lip right</name>
+          <color>#d48162</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-11-24 11:21:49.724611+00:00</dumped>
+  </meta>
+  <image id="0" name="1.jpg" width="3423" height="4532">
+    <points label="36_Right eye outer corner" source="manual" occluded="0" points="859.53,2293.17" z_order="0">
+    </points>
+    <points label="30_Nose Tip Center" source="manual" occluded="0" points="1879.90,2884.50" z_order="0">
+    </points>
+    <points label="33_Nose tip bottom" source="manual" occluded="0" points="1901.20,3085.20" z_order="0">
+    </points>
+    <points label="29_Nose bridge Bottom" source="manual" occluded="0" points="1851.20,2616.30" z_order="0">
+    </points>
+    <points label="28_Nose bridge" source="manual" occluded="0" points="1829.60,2408.70" z_order="0">
+    </points>
+    <points label="27_Nose bridge top" source="manual" occluded="0" points="1811.00,2162.70" z_order="0">
+    </points>
+    <points label="0_Jawline rightmost" source="manual" occluded="0" points="526.17,2185.27" z_order="0">
+    </points>
+    <points label="1_Jawline" source="manual" occluded="0" points="551.08,2443.68" z_order="0">
+    </points>
+    <points label="2_Jawline" source="manual" occluded="0" points="622.70,2758.10" z_order="0">
+    </points>
+    <points label="3_Jawline" source="manual" occluded="0" points="734.80,3035.20" z_order="0">
+    </points>
+    <points label="4_Jawline" source="manual" occluded="0" points="834.39,3302.96" z_order="0">
+    </points>
+    <points label="5_Jawline" source="manual" occluded="0" points="980.70,3580.10" z_order="0">
+    </points>
+    <points label="6_Jawline" source="manual" occluded="0" points="1257.80,3860.30" z_order="0">
+    </points>
+    <points label="7_Jawline" source="manual" occluded="0" points="1500.60,4106.20" z_order="0">
+    </points>
+    <points label="8_Jawline" source="manual" occluded="0" points="1942.74,4221.40" z_order="0">
+    </points>
+    <points label="9_Jawline" source="manual" occluded="0" points="2369.27,4015.92" z_order="0">
+    </points>
+    <points label="10_Jawline" source="manual" occluded="0" points="2543.62,3723.27" z_order="0">
+    </points>
+    <points label="11_Jawline" source="manual" occluded="0" points="2733.53,3452.41" z_order="0">
+    </points>
+    <points label="12_Jawline" source="manual" occluded="0" points="2843.70,3147.50" z_order="0">
+    </points>
+    <points label="13_Jawline" source="manual" occluded="0" points="2906.00,2872.80" z_order="0">
+    </points>
+    <points label="14_Jawline" source="manual" occluded="0" points="2942.99,2600.08" z_order="0">
+    </points>
+    <points label="15_Jawline" source="manual" occluded="0" points="2978.37,2316.35" z_order="0">
+    </points>
+    <points label="16_Jawline leftmost" source="manual" occluded="0" points="2963.42,2006.26" z_order="0">
+    </points>
+    <points label="17_Right eyebrow outer end" source="manual" occluded="0" points="653.57,1901.62" z_order="0">
+    </points>
+    <points label="18_Right eyebrow" source="manual" occluded="0" points="779.15,1619.75" z_order="0">
+    </points>
+    <points label="19_Right eyebrow" source="manual" occluded="0" points="1049.86,1589.05" z_order="0">
+    </points>
+    <points label="20_Right eyebrow" source="manual" occluded="0" points="1275.92,1650.45" z_order="0">
+    </points>
+    <points label="21_Right eyebrow inner end" source="manual" occluded="0" points="1499.18,1848.59" z_order="0">
+    </points>
+    <points label="22_Left eyebrow inner end" source="manual" occluded="0" points="2017.45,1832.59" z_order="0">
+    </points>
+    <points label="23_Left eyebrow" source="manual" occluded="0" points="2250.54,1611.55" z_order="0">
+    </points>
+    <points label="24_Left eyebrow" source="manual" occluded="0" points="2503.72,1519.12" z_order="0">
+    </points>
+    <points label="25_Left eyebrow" source="manual" occluded="0" points="2692.60,1535.20" z_order="0">
+    </points>
+    <points label="26_Left eyebrow outer end" source="manual" occluded="0" points="2829.24,1756.23" z_order="0">
+    </points>
+    <points label="31_Right nostril edge" source="manual" occluded="0" points="1620.58,3090.79" z_order="0">
+    </points>
+    <points label="32_Nose tip right" source="manual" occluded="0" points="1776.87,3029.39" z_order="0">
+    </points>
+    <points label="34_Nose tip left" source="manual" occluded="0" points="2002.93,3004.27" z_order="0">
+    </points>
+    <points label="35_Left nostril edge" source="manual" occluded="0" points="2142.05,2987.85" z_order="0">
+    </points>
+    <points label="37_Right eye upper eyelid 1" source="manual" occluded="0" points="1046.50,2192.70" z_order="0">
+    </points>
+    <points label="38_Right eye upper eyelid 2" source="manual" occluded="0" points="1253.00,2173.20" z_order="0">
+    </points>
+    <points label="39_Right eye inner corner" source="manual" occluded="0" points="1473.51,2268.05" z_order="0">
+    </points>
+    <points label="40_Right eye lower eyelid 2" source="manual" occluded="0" points="1272.57,2309.92" z_order="0">
+    </points>
+    <points label="41_Right eye lower eyelid 1" source="manual" occluded="0" points="1046.51,2335.03" z_order="0">
+    </points>
+    <points label="42_Left eye inner corner" source="manual" occluded="0" points="2123.77,2220.61" z_order="0">
+    </points>
+    <points label="43_Left eye upper eyelid 1" source="manual" occluded="0" points="2285.64,2069.91" z_order="0">
+    </points>
+    <points label="44_Left eye upper eyelid 2" source="manual" occluded="0" points="2506.11,2050.37" z_order="0">
+    </points>
+    <points label="45_Left eye outer corner" source="manual" occluded="0" points="2707.05,2145.26" z_order="0">
+    </points>
+    <points label="46_Left eye lower eyelid 1" source="manual" occluded="0" points="2547.97,2212.24" z_order="0">
+    </points>
+    <points label="47_Left eye lower eyelid 2" source="manual" occluded="0" points="2313.54,2217.82" z_order="0">
+    </points>
+    <points label="48_Mouth right corner" source="manual" occluded="0" points="1389.90,3572.50" z_order="0">
+    </points>
+    <points label="49_Upper lip right mid" source="manual" occluded="0" points="1595.70,3451.00" z_order="0">
+    </points>
+    <points label="50_Upper lip center-right" source="manual" occluded="0" points="1814.71,3371.56" z_order="0">
+    </points>
+    <points label="51_Upper lip center" source="manual" occluded="0" points="1932.93,3387.06" z_order="0">
+    </points>
+    <points label="52_Upper lip center-left" source="manual" occluded="0" points="2051.15,3330.86" z_order="0">
+    </points>
+    <points label="53_Upper lip left mid" source="manual" occluded="0" points="2256.60,3346.40" z_order="0">
+    </points>
+    <points label="54_Mouth left corner" source="manual" occluded="0" points="2438.77,3464.58" z_order="0">
+    </points>
+    <points label="55_Lower lip left mid" source="manual" occluded="0" points="2305.70,3649.50" z_order="0">
+    </points>
+    <points label="56_Lower lip center-left" source="manual" occluded="0" points="2137.40,3767.90" z_order="0">
+    </points>
+    <points label="57_Lower lip center" source="manual" occluded="0" points="1947.60,3796.20" z_order="0">
+    </points>
+    <points label="58_Lower lip center-right" source="manual" occluded="0" points="1739.04,3793.52" z_order="0">
+    </points>
+    <points label="59_Lower lip right mid" source="manual" occluded="0" points="1572.15,3730.27" z_order="0">
+    </points>
+    <points label="60_Inner upper lip right" source="manual" occluded="0" points="1443.30,3570.30" z_order="0">
+    </points>
+    <points label="61_Inner upper lip center-right" source="manual" occluded="0" points="1883.05,3531.08" z_order="0">
+    </points>
+    <points label="62_Inner upper lip center" source="manual" occluded="0" points="1958.42,3510.89" z_order="0">
+    </points>
+    <points label="63_Inner upper lip center-left" source="manual" occluded="0" points="2014.94,3506.85" z_order="0">
+    </points>
+    <points label="64_Inner upper lip left" source="manual" occluded="0" points="2383.71,3462.44" z_order="0">
+    </points>
+    <points label="65_Inner lower lip left" source="manual" occluded="0" points="2235.67,3486.66" z_order="0">
+    </points>
+    <points label="66_Inner lower lip center" source="manual" occluded="0" points="1924.80,3544.50" z_order="0">
+    </points>
+    <points label="67_Inner lower lip right" source="manual" occluded="0" points="1641.32,3561.72" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="2.jpg" width="3032" height="3256">
+    <points label="1_Jawline" source="manual" occluded="0" points="567.00,1991.87" z_order="0">
+    </points>
+    <points label="4_Jawline" source="manual" occluded="0" points="767.32,2574.67" z_order="0">
+    </points>
+    <points label="5_Jawline" source="manual" occluded="0" points="887.89,2720.18" z_order="0">
+    </points>
+    <points label="34_Nose tip left" source="manual" occluded="0" points="1526.30,1789.30" z_order="0">
+    </points>
+    <points label="33_Nose tip bottom" source="manual" occluded="0" points="1459.30,1849.70" z_order="0">
+    </points>
+    <points label="32_Nose tip right" source="manual" occluded="0" points="1390.60,1794.90" z_order="0">
+    </points>
+    <points label="30_Nose Tip Center" source="manual" occluded="0" points="1451.90,1653.50" z_order="0">
+    </points>
+    <points label="29_Nose bridge Bottom" source="manual" occluded="0" points="1440.30,1461.30" z_order="0">
+    </points>
+    <points label="28_Nose bridge" source="manual" occluded="0" points="1438.40,1377.60" z_order="0">
+    </points>
+    <points label="27_Nose bridge top" source="manual" occluded="0" points="1433.00,1261.70" z_order="0">
+    </points>
+    <points label="9_Jawline" source="manual" occluded="0" points="1702.80,2882.33" z_order="0">
+    </points>
+    <points label="8_Jawline" source="manual" occluded="0" points="1461.65,2932.22" z_order="0">
+    </points>
+    <points label="7_Jawline" source="manual" occluded="0" points="1187.25,2878.17" z_order="0">
+    </points>
+    <points label="3_Jawline" source="manual" occluded="0" points="671.70,2395.88" z_order="0">
+    </points>
+    <points label="2_Jawline" source="manual" occluded="0" points="607.42,2202.64" z_order="0">
+    </points>
+    <points label="67_Inner lower lip right" source="manual" occluded="0" points="1280.16,2245.95" z_order="0">
+    </points>
+    <points label="66_Inner lower lip center" source="manual" occluded="0" points="1464.95,2217.08" z_order="0">
+    </points>
+    <points label="65_Inner lower lip left" source="manual" occluded="0" points="1693.04,2240.18" z_order="0">
+    </points>
+    <points label="64_Inner upper lip left" source="manual" occluded="0" points="1808.50,2251.70" z_order="0">
+    </points>
+    <points label="63_Inner upper lip center-left" source="manual" occluded="0" points="1554.45,2165.11" z_order="0">
+    </points>
+    <points label="62_Inner upper lip center" source="manual" occluded="0" points="1462.06,2185.32" z_order="0">
+    </points>
+    <points label="61_Inner upper lip center-right" source="manual" occluded="0" points="1372.55,2185.32" z_order="0">
+    </points>
+    <points label="60_Inner upper lip right" source="manual" occluded="0" points="1135.80,2289.26" z_order="0">
+    </points>
+    <points label="59_Lower lip right mid" source="manual" occluded="0" points="1179.11,2378.77" z_order="0">
+    </points>
+    <points label="58_Lower lip center-right" source="manual" occluded="0" points="1337.91,2381.66" z_order="0">
+    </points>
+    <points label="57_Lower lip center" source="manual" occluded="0" points="1462.06,2378.77" z_order="0">
+    </points>
+    <points label="56_Lower lip center-left" source="manual" occluded="0" points="1591.99,2381.66" z_order="0">
+    </points>
+    <points label="55_Lower lip left mid" source="manual" occluded="0" points="1756.56,2361.44" z_order="0">
+    </points>
+    <points label="54_Mouth left corner" source="manual" occluded="0" points="1869.16,2234.40" z_order="0">
+    </points>
+    <points label="53_Upper lip left mid" source="manual" occluded="0" points="1710.36,2101.59" z_order="0">
+    </points>
+    <points label="52_Upper lip center-left" source="manual" occluded="0" points="1545.79,2003.42" z_order="0">
+    </points>
+    <points label="51_Upper lip center" source="manual" occluded="0" points="1427.41,2029.41" z_order="0">
+    </points>
+    <points label="50_Upper lip center-right" source="manual" occluded="0" points="1329.24,2023.63" z_order="0">
+    </points>
+    <points label="49_Upper lip right mid" source="manual" occluded="0" points="1205.09,2142.01" z_order="0">
+    </points>
+    <points label="48_Mouth right corner" source="manual" occluded="0" points="1078.05,2300.81" z_order="0">
+    </points>
+    <points label="47_Left eye lower eyelid 2" source="manual" occluded="0" points="1815.10,1389.70" z_order="0">
+    </points>
+    <points label="46_Left eye lower eyelid 1" source="manual" occluded="0" points="2006.31,1385.57" z_order="0">
+    </points>
+    <points label="45_Left eye outer corner" source="manual" occluded="0" points="2131.04,1343.99" z_order="0">
+    </points>
+    <points label="44_Left eye upper eyelid 2" source="manual" occluded="0" points="1973.05,1265.00" z_order="0">
+    </points>
+    <points label="43_Left eye upper eyelid 1" source="manual" occluded="0" points="1802.58,1294.10" z_order="0">
+    </points>
+    <points label="42_Left eye inner corner" source="manual" occluded="0" points="1690.30,1356.50" z_order="0">
+    </points>
+    <points label="41_Right eye lower eyelid 1" source="manual" occluded="0" points="892.05,1456.25" z_order="0">
+    </points>
+    <points label="40_Right eye lower eyelid 2" source="manual" occluded="0" points="1054.20,1431.30" z_order="0">
+    </points>
+    <points label="39_Right eye inner corner" source="manual" occluded="0" points="1203.88,1368.94" z_order="0">
+    </points>
+    <points label="38_Right eye upper eyelid 2" source="manual" occluded="0" points="958.58,1302.42" z_order="0">
+    </points>
+    <points label="37_Right eye upper eyelid 1" source="manual" occluded="0" points="833.84,1331.52" z_order="0">
+    </points>
+    <points label="36_Right eye outer corner" source="manual" occluded="0" points="759.01,1414.67" z_order="0">
+    </points>
+    <points label="35_Left nostril edge" source="manual" occluded="0" points="1640.43,1884.49" z_order="0">
+    </points>
+    <points label="31_Right nostril edge" source="manual" occluded="0" points="1274.56,1901.12" z_order="0">
+    </points>
+    <points label="26_Left eyebrow outer end" source="manual" occluded="0" points="2251.61,1136.11" z_order="0">
+    </points>
+    <points label="25_Left eyebrow" source="manual" occluded="0" points="2076.99,944.86" z_order="0">
+    </points>
+    <points label="24_Left eyebrow" source="manual" occluded="0" points="1914.84,915.75" z_order="0">
+    </points>
+    <points label="23_Left eyebrow" source="manual" occluded="0" points="1706.96,944.86" z_order="0">
+    </points>
+    <points label="22_Left eyebrow inner end" source="manual" occluded="0" points="1594.70,1044.64" z_order="0">
+    </points>
+    <points label="21_Right eyebrow inner end" source="manual" occluded="0" points="1191.41,1061.27" z_order="0">
+    </points>
+    <points label="20_Right eyebrow" source="manual" occluded="0" points="1020.94,969.80" z_order="0">
+    </points>
+    <points label="19_Right eyebrow" source="manual" occluded="0" points="829.69,982.27" z_order="0">
+    </points>
+    <points label="18_Right eyebrow" source="manual" occluded="0" points="667.54,1077.90" z_order="0">
+    </points>
+    <points label="17_Right eyebrow outer end" source="manual" occluded="0" points="642.59,1206.79" z_order="0">
+    </points>
+    <points label="16_Jawline leftmost" source="manual" occluded="0" points="2392.97,1684.92" z_order="0">
+    </points>
+    <points label="15_Jawline" source="manual" occluded="0" points="2388.82,1942.70" z_order="0">
+    </points>
+    <points label="14_Jawline" source="manual" occluded="0" points="2368.03,2125.64" z_order="0">
+    </points>
+    <points label="13_Jawline" source="manual" occluded="0" points="2343.08,2341.83" z_order="0">
+    </points>
+    <points label="12_Jawline" source="manual" occluded="0" points="2255.77,2491.51" z_order="0">
+    </points>
+    <points label="11_Jawline" source="manual" occluded="0" points="2072.83,2682.76" z_order="0">
+    </points>
+    <points label="10_Jawline" source="manual" occluded="0" points="1877.42,2795.02" z_order="0">
+    </points>
+    <points label="6_Jawline" source="manual" occluded="0" points="1037.57,2807.49" z_order="0">
+    </points>
+    <points label="0_Jawline rightmost" source="manual" occluded="0" points="541.02,1804.20" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="3.jpg" width="1053" height="1205">
+    <points label="20_Right eyebrow" source="manual" occluded="0" points="398.24,575.06" z_order="0">
+    </points>
+    <points label="57_Lower lip center" source="manual" occluded="0" points="515.90,1015.60" z_order="0">
+    </points>
+    <points label="66_Inner lower lip center" source="manual" occluded="0" points="521.60,964.60" z_order="0">
+    </points>
+    <points label="0_Jawline rightmost" source="manual" occluded="0" points="208.50,622.20" z_order="0">
+    </points>
+    <points label="1_Jawline" source="manual" occluded="0" points="221.78,699.11" z_order="0">
+    </points>
+    <points label="2_Jawline" source="manual" occluded="0" points="228.54,754.69" z_order="0">
+    </points>
+    <points label="3_Jawline" source="manual" occluded="0" points="233.51,813.46" z_order="0">
+    </points>
+    <points label="4_Jawline" source="manual" occluded="0" points="241.79,878.03" z_order="0">
+    </points>
+    <points label="5_Jawline" source="manual" occluded="0" points="275.73,949.22" z_order="0">
+    </points>
+    <points label="6_Jawline" source="manual" occluded="0" points="327.88,1019.59" z_order="0">
+    </points>
+    <points label="7_Jawline" source="manual" occluded="0" points="395.76,1080.84" z_order="0">
+    </points>
+    <points label="8_Jawline" source="manual" occluded="0" points="515.79,1134.65" z_order="0">
+    </points>
+    <points label="9_Jawline" source="manual" occluded="0" points="639.96,1089.95" z_order="0">
+    </points>
+    <points label="10_Jawline" source="manual" occluded="0" points="720.25,1021.24" z_order="0">
+    </points>
+    <points label="11_Jawline" source="manual" occluded="0" points="779.03,944.26" z_order="0">
+    </points>
+    <points label="12_Jawline" source="manual" occluded="0" points="811.31,876.38" z_order="0">
+    </points>
+    <points label="13_Jawline" source="manual" occluded="0" points="818.76,832.50" z_order="0">
+    </points>
+    <points label="14_Jawline" source="manual" occluded="0" points="825.38,766.28" z_order="0">
+    </points>
+    <points label="15_Jawline" source="manual" occluded="0" points="836.97,704.19" z_order="0">
+    </points>
+    <points label="16_Jawline leftmost" source="manual" occluded="0" points="841.11,642.94" z_order="0">
+    </points>
+    <points label="17_Right eyebrow outer end" source="manual" occluded="0" points="267.45,595.75" z_order="0">
+    </points>
+    <points label="18_Right eyebrow" source="manual" occluded="0" points="289.80,576.71" z_order="0">
+    </points>
+    <points label="19_Right eyebrow" source="manual" occluded="0" points="329.53,561.81" z_order="0">
+    </points>
+    <points label="21_Right eyebrow inner end" source="manual" occluded="0" points="465.29,616.45" z_order="0">
+    </points>
+    <points label="22_Left eyebrow inner end" source="manual" occluded="0" points="577.04,619.76" z_order="0">
+    </points>
+    <points label="23_Left eyebrow" source="manual" occluded="0" points="604.36,596.58" z_order="0">
+    </points>
+    <points label="24_Left eyebrow" source="manual" occluded="0" points="651.55,578.37" z_order="0">
+    </points>
+    <points label="25_Left eyebrow" source="manual" occluded="0" points="716.11,571.75" z_order="0">
+    </points>
+    <points label="26_Left eyebrow outer end" source="manual" occluded="0" points="786.48,596.58" z_order="0">
+    </points>
+    <points label="27_Nose bridge top" source="manual" occluded="0" points="524.10,664.50" z_order="0">
+    </points>
+    <points label="28_Nose bridge" source="manual" occluded="0" points="522.40,725.00" z_order="0">
+    </points>
+    <points label="29_Nose bridge Bottom" source="manual" occluded="0" points="521.50,767.10" z_order="0">
+    </points>
+    <points label="30_Nose Tip Center" source="manual" occluded="0" points="521.58,839.13" z_order="0">
+    </points>
+    <points label="31_Right nostril edge" source="manual" occluded="0" points="472.10,867.90" z_order="0">
+    </points>
+    <points label="32_Nose tip right" source="manual" occluded="0" points="496.85,861.89" z_order="0">
+    </points>
+    <points label="33_Nose tip bottom" source="manual" occluded="0" points="520.81,879.62" z_order="0">
+    </points>
+    <points label="34_Nose tip left" source="manual" occluded="0" points="553.86,858.54" z_order="0">
+    </points>
+    <points label="35_Left nostril edge" source="manual" occluded="0" points="575.42,871.95" z_order="0">
+    </points>
+    <points label="36_Right eye outer corner" source="manual" occluded="0" points="321.41,660.69" z_order="0">
+    </points>
+    <points label="37_Right eye upper eyelid 1" source="manual" occluded="0" points="360.50,640.00" z_order="0">
+    </points>
+    <points label="38_Right eye upper eyelid 2" source="manual" occluded="0" points="401.30,638.80" z_order="0">
+    </points>
+    <points label="39_Right eye inner corner" source="manual" occluded="0" points="450.17,680.23" z_order="0">
+    </points>
+    <points label="40_Right eye lower eyelid 2" source="manual" occluded="0" points="409.36,691.73" z_order="0">
+    </points>
+    <points label="41_Right eye lower eyelid 1" source="manual" occluded="0" points="355.90,688.86" z_order="0">
+    </points>
+    <points label="42_Left eye inner corner" source="manual" occluded="0" points="600.79,676.78" z_order="0">
+    </points>
+    <points label="43_Left eye upper eyelid 1" source="manual" occluded="0" points="627.23,649.77" z_order="0">
+    </points>
+    <points label="44_Left eye upper eyelid 2" source="manual" occluded="0" points="669.20,639.99" z_order="0">
+    </points>
+    <points label="45_Left eye outer corner" source="manual" occluded="0" points="723.81,660.69" z_order="0">
+    </points>
+    <points label="46_Left eye lower eyelid 1" source="manual" occluded="0" points="699.66,685.41" z_order="0">
+    </points>
+    <points label="47_Left eye lower eyelid 2" source="manual" occluded="0" points="647.35,692.88" z_order="0">
+    </points>
+    <points label="48_Mouth right corner" source="manual" occluded="0" points="402.38,951.38" z_order="0">
+    </points>
+    <points label="49_Upper lip right mid" source="manual" occluded="0" points="435.92,942.27" z_order="0">
+    </points>
+    <points label="50_Upper lip center-right" source="manual" occluded="0" points="482.87,929.34" z_order="0">
+    </points>
+    <points label="51_Upper lip center" source="manual" occluded="0" points="522.15,937.00" z_order="0">
+    </points>
+    <points label="52_Upper lip center-left" source="manual" occluded="0" points="556.16,929.34" z_order="0">
+    </points>
+    <points label="53_Upper lip left mid" source="manual" occluded="0" points="595.92,944.67" z_order="0">
+    </points>
+    <points label="54_Mouth left corner" source="manual" occluded="0" points="639.04,955.21" z_order="0">
+    </points>
+    <points label="55_Lower lip left mid" source="manual" occluded="0" points="612.33,984.29" z_order="0">
+    </points>
+    <points label="56_Lower lip center-left" source="manual" occluded="0" points="574.35,1010.35" z_order="0">
+    </points>
+    <points label="58_Lower lip center-right" source="manual" occluded="0" points="471.23,1009.80" z_order="0">
+    </points>
+    <points label="59_Lower lip right mid" source="manual" occluded="0" points="437.68,988.17" z_order="0">
+    </points>
+    <points label="60_Inner upper lip right" source="manual" occluded="0" points="412.73,951.86" z_order="0">
+    </points>
+    <points label="61_Inner upper lip center-right" source="manual" occluded="0" points="490.08,956.01" z_order="0">
+    </points>
+    <points label="62_Inner upper lip center" source="manual" occluded="0" points="519.74,960.45" z_order="0">
+    </points>
+    <points label="63_Inner upper lip center-left" source="manual" occluded="0" points="555.23,959.06" z_order="0">
+    </points>
+    <points label="64_Inner upper lip left" source="manual" occluded="0" points="622.87,957.68" z_order="0">
+    </points>
+    <points label="65_Inner lower lip left" source="manual" occluded="0" points="587.66,964.33" z_order="0">
+    </points>
+    <points label="67_Inner lower lip right" source="manual" occluded="0" points="485.64,961.00" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="4.jpg" width="2237" height="2379">
+    <points label="2_Jawline" source="manual" occluded="0" points="482.74,1321.30" z_order="0">
+    </points>
+    <points label="0_Jawline rightmost" source="manual" occluded="0" points="490.99,1070.16" z_order="0">
+    </points>
+    <points label="1_Jawline" source="manual" occluded="0" points="482.74,1185.65" z_order="0">
+    </points>
+    <points label="65_Inner lower lip left" source="manual" occluded="0" points="1127.30,1989.93" z_order="0">
+    </points>
+    <points label="64_Inner upper lip left" source="manual" occluded="0" points="1254.82,1984.46" z_order="0">
+    </points>
+    <points label="63_Inner upper lip center-left" source="manual" occluded="0" points="1106.50,1959.83" z_order="0">
+    </points>
+    <points label="61_Inner upper lip center-right" source="manual" occluded="0" points="986.63,1947.79" z_order="0">
+    </points>
+    <points label="60_Inner upper lip right" source="manual" occluded="0" points="828.46,1946.70" z_order="0">
+    </points>
+    <points label="59_Lower lip right mid" source="manual" occluded="0" points="887.57,2049.59" z_order="0">
+    </points>
+    <points label="55_Lower lip left mid" source="manual" occluded="0" points="1213.77,2046.86" z_order="0">
+    </points>
+    <points label="54_Mouth left corner" source="manual" occluded="0" points="1279.40,1989.00" z_order="0">
+    </points>
+    <points label="53_Upper lip left mid" source="manual" occluded="0" points="1198.55,1942.05" z_order="0">
+    </points>
+    <points label="52_Upper lip center-left" source="manual" occluded="0" points="1105.49,1910.27" z_order="0">
+    </points>
+    <points label="51_Upper lip center" source="manual" occluded="0" points="1048.74,1922.75" z_order="0">
+    </points>
+    <points label="50_Upper lip center-right" source="manual" occluded="0" points="1009.02,1908.00" z_order="0">
+    </points>
+    <points label="49_Upper lip right mid" source="manual" occluded="0" points="888.72,1926.16" z_order="0">
+    </points>
+    <points label="48_Mouth right corner" source="manual" occluded="0" points="791.11,1947.72" z_order="0">
+    </points>
+    <points label="47_Left eye lower eyelid 2" source="manual" occluded="0" points="1391.49,1357.56" z_order="0">
+    </points>
+    <points label="46_Left eye lower eyelid 1" source="manual" occluded="0" points="1509.53,1359.83" z_order="0">
+    </points>
+    <points label="45_Left eye outer corner" source="manual" occluded="0" points="1575.35,1305.35" z_order="0">
+    </points>
+    <points label="44_Left eye upper eyelid 2" source="manual" occluded="0" points="1449.38,1220.23" z_order="0">
+    </points>
+    <points label="43_Left eye upper eyelid 1" source="manual" occluded="0" points="1344.96,1253.15" z_order="0">
+    </points>
+    <points label="42_Left eye inner corner" source="manual" occluded="0" points="1281.41,1314.43" z_order="0">
+    </points>
+    <points label="41_Right eye lower eyelid 1" source="manual" occluded="0" points="753.66,1256.55" z_order="0">
+    </points>
+    <points label="67_Inner lower lip right" source="manual" occluded="0" points="949.96,1968.04" z_order="0">
+    </points>
+    <points label="40_Right eye lower eyelid 2" source="manual" occluded="0" points="878.50,1279.25" z_order="0">
+    </points>
+    <points label="39_Right eye inner corner" source="manual" occluded="0" points="979.51,1273.57" z_order="0">
+    </points>
+    <points label="38_Right eye upper eyelid 2" source="manual" occluded="0" points="849.00,1141.92" z_order="0">
+    </points>
+    <points label="37_Right eye upper eyelid 1" source="manual" occluded="0" points="761.61,1147.60" z_order="0">
+    </points>
+    <points label="36_Right eye outer corner" source="manual" occluded="0" points="702.59,1190.72" z_order="0">
+    </points>
+    <points label="35_Left nostril edge" source="manual" occluded="0" points="1165.64,1772.94" z_order="0">
+    </points>
+    <points label="34_Nose tip left" source="manual" occluded="0" points="1146.35,1755.92" z_order="0">
+    </points>
+    <points label="33_Nose tip bottom" source="manual" occluded="0" points="1056.69,1796.78" z_order="0">
+    </points>
+    <points label="32_Nose tip right" source="manual" occluded="0" points="1014.70,1744.57" z_order="0">
+    </points>
+    <points label="31_Right nostril edge" source="manual" occluded="0" points="953.41,1747.98" z_order="0">
+    </points>
+    <points label="30_Nose Tip Center" source="manual" occluded="0" points="1087.46,1690.52" z_order="0">
+    </points>
+    <points label="29_Nose bridge Bottom" source="manual" occluded="0" points="1103.15,1515.97" z_order="0">
+    </points>
+    <points label="26_Left eyebrow outer end" source="manual" occluded="0" points="1691.50,1194.34" z_order="0">
+    </points>
+    <points label="25_Left eyebrow" source="manual" occluded="0" points="1601.28,1090.40" z_order="0">
+    </points>
+    <points label="24_Left eyebrow" source="manual" occluded="0" points="1489.50,1094.32" z_order="0">
+    </points>
+    <points label="23_Left eyebrow" source="manual" occluded="0" points="1391.44,1117.86" z_order="0">
+    </points>
+    <points label="22_Left eyebrow inner end" source="manual" occluded="0" points="1299.26,1180.61" z_order="0">
+    </points>
+    <points label="21_Right eyebrow inner end" source="manual" occluded="0" points="987.44,1121.78" z_order="0">
+    </points>
+    <points label="20_Right eyebrow" source="manual" occluded="0" points="865.85,1021.76" z_order="0">
+    </points>
+    <points label="19_Right eyebrow" source="manual" occluded="0" points="756.02,976.65" z_order="0">
+    </points>
+    <points label="18_Right eyebrow" source="manual" occluded="0" points="656.00,1000.19" z_order="0">
+    </points>
+    <points label="17_Right eyebrow outer end" source="manual" occluded="0" points="599.13,1057.06" z_order="0">
+    </points>
+    <points label="16_Jawline leftmost" source="manual" occluded="0" points="1746.41,1296.32" z_order="0">
+    </points>
+    <points label="15_Jawline" source="manual" occluded="0" points="1736.60,1394.38" z_order="0">
+    </points>
+    <points label="14_Jawline" source="manual" occluded="0" points="1699.34,1515.97" z_order="0">
+    </points>
+    <points label="13_Jawline" source="manual" occluded="0" points="1642.47,1659.14" z_order="0">
+    </points>
+    <points label="12_Jawline" source="manual" occluded="0" points="1575.79,1825.84" z_order="0">
+    </points>
+    <points label="11_Jawline" source="manual" occluded="0" points="1479.69,2002.34" z_order="0">
+    </points>
+    <points label="10_Jawline" source="manual" occluded="0" points="1307.11,2190.61" z_order="0">
+    </points>
+    <points label="9_Jawline" source="manual" occluded="0" points="1161.98,2306.32" z_order="0">
+    </points>
+    <points label="8_Jawline" source="manual" occluded="0" points="960.30,2330.43" z_order="0">
+    </points>
+    <points label="7_Jawline" source="manual" occluded="0" points="745.86,2190.74" z_order="0">
+    </points>
+    <points label="6_Jawline" source="manual" occluded="0" points="624.92,2022.41" z_order="0">
+    </points>
+    <points label="5_Jawline" source="manual" occluded="0" points="541.57,1849.18" z_order="0">
+    </points>
+    <points label="27_Nose bridge top" source="manual" occluded="0" points="1141.90,1266.90" z_order="0">
+    </points>
+    <points label="28_Nose bridge" source="manual" occluded="0" points="1122.30,1394.70" z_order="0">
+    </points>
+    <points label="56_Lower lip center-left" source="manual" occluded="0" points="1105.80,2108.40" z_order="0">
+    </points>
+    <points label="57_Lower lip center" source="manual" occluded="0" points="1019.30,2110.60" z_order="0">
+    </points>
+    <points label="58_Lower lip center-right" source="manual" occluded="0" points="948.40,2089.60" z_order="0">
+    </points>
+    <points label="62_Inner upper lip center" source="manual" occluded="0" points="1044.70,1963.10" z_order="0">
+    </points>
+    <points label="66_Inner lower lip center" source="manual" occluded="0" points="1038.10,2000.80" z_order="0">
+    </points>
+    <points label="4_Jawline" source="manual" occluded="0" points="512.20,1677.60" z_order="0">
+    </points>
+    <points label="3_Jawline" source="manual" occluded="0" points="499.08,1519.05" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="5.jpg" width="850" height="1013">
+    <points label="31_Right nostril edge" source="manual" occluded="0" points="345.31,601.60" z_order="0">
+    </points>
+    <points label="67_Inner lower lip right" source="manual" occluded="0" points="364.76,720.82" z_order="0">
+    </points>
+    <points label="66_Inner lower lip center" source="manual" occluded="0" points="408.80,722.20" z_order="0">
+    </points>
+    <points label="65_Inner lower lip left" source="manual" occluded="0" points="449.12,720.59" z_order="0">
+    </points>
+    <points label="64_Inner upper lip left" source="manual" occluded="0" points="542.14,690.65" z_order="0">
+    </points>
+    <points label="63_Inner upper lip center-left" source="manual" occluded="0" points="449.59,708.04" z_order="0">
+    </points>
+    <points label="62_Inner upper lip center" source="manual" occluded="0" points="411.60,711.20" z_order="0">
+    </points>
+    <points label="61_Inner upper lip center-right" source="manual" occluded="0" points="369.56,701.78" z_order="0">
+    </points>
+    <points label="0_Jawline rightmost" source="manual" occluded="0" points="112.48,475.52" z_order="0">
+    </points>
+    <points label="34_Nose tip left" source="manual" occluded="0" points="486.96,608.31" z_order="0">
+    </points>
+    <points label="1_Jawline" source="manual" occluded="0" points="116.09,529.63" z_order="0">
+    </points>
+    <points label="2_Jawline" source="manual" occluded="0" points="119.69,583.75" z_order="0">
+    </points>
+    <points label="3_Jawline" source="manual" occluded="0" points="124.50,660.71" z_order="0">
+    </points>
+    <points label="4_Jawline" source="manual" occluded="0" points="146.18,714.79" z_order="0">
+    </points>
+    <points label="5_Jawline" source="manual" occluded="0" points="172.61,770.98" z_order="0">
+    </points>
+    <points label="6_Jawline" source="manual" occluded="0" points="217.10,850.34" z_order="0">
+    </points>
+    <points label="7_Jawline" source="manual" occluded="0" points="285.60,905.70" z_order="0">
+    </points>
+    <points label="8_Jawline" source="manual" occluded="0" points="398.68,938.13" z_order="0">
+    </points>
+    <points label="9_Jawline" source="manual" occluded="0" points="492.47,924.90" z_order="0">
+    </points>
+    <points label="10_Jawline" source="manual" occluded="0" points="576.65,870.79" z_order="0">
+    </points>
+    <points label="11_Jawline" source="manual" occluded="0" points="619.94,799.84" z_order="0">
+    </points>
+    <points label="12_Jawline" source="manual" occluded="0" points="647.60,750.50" z_order="0">
+    </points>
+    <points label="13_Jawline" source="manual" occluded="0" points="660.83,710.85" z_order="0">
+    </points>
+    <points label="14_Jawline" source="manual" occluded="0" points="674.05,660.35" z_order="0">
+    </points>
+    <points label="15_Jawline" source="manual" occluded="0" points="682.47,614.65" z_order="0">
+    </points>
+    <points label="16_Jawline leftmost" source="manual" occluded="0" points="690.89,546.11" z_order="0">
+    </points>
+    <points label="17_Right eyebrow outer end" source="manual" occluded="0" points="183.57,414.30" z_order="0">
+    </points>
+    <points label="18_Right eyebrow" source="manual" occluded="0" points="204.45,379.23" z_order="0">
+    </points>
+    <points label="19_Right eyebrow" source="manual" occluded="0" points="250.38,360.02" z_order="0">
+    </points>
+    <points label="20_Right eyebrow" source="manual" occluded="0" points="310.50,360.86" z_order="0">
+    </points>
+    <points label="35_Left nostril edge" source="manual" occluded="1" points="492.28,605.41" z_order="0">
+    </points>
+    <points label="36_Right eye outer corner" source="manual" occluded="0" points="239.23,429.48" z_order="0">
+    </points>
+    <points label="37_Right eye upper eyelid 1" source="manual" occluded="0" points="269.80,413.00" z_order="0">
+    </points>
+    <points label="38_Right eye upper eyelid 2" source="manual" occluded="0" points="301.30,413.00" z_order="0">
+    </points>
+    <points label="39_Right eye inner corner" source="manual" occluded="0" points="329.40,425.50" z_order="0">
+    </points>
+    <points label="40_Right eye lower eyelid 2" source="manual" occluded="0" points="303.67,427.87" z_order="0">
+    </points>
+    <points label="41_Right eye lower eyelid 1" source="manual" occluded="0" points="271.05,427.46" z_order="0">
+    </points>
+    <points label="42_Left eye inner corner" source="manual" occluded="0" points="506.24,444.38" z_order="0">
+    </points>
+    <points label="43_Left eye upper eyelid 1" source="manual" occluded="0" points="530.80,428.27" z_order="0">
+    </points>
+    <points label="44_Left eye upper eyelid 2" source="manual" occluded="0" points="569.46,425.05" z_order="0">
+    </points>
+    <points label="45_Left eye outer corner" source="manual" occluded="0" points="603.70,445.59" z_order="0">
+    </points>
+    <points label="46_Left eye lower eyelid 1" source="manual" occluded="0" points="572.69,444.78" z_order="0">
+    </points>
+    <points label="47_Left eye lower eyelid 2" source="manual" occluded="0" points="533.22,443.17" z_order="0">
+    </points>
+    <points label="48_Mouth right corner" source="manual" occluded="0" points="251.44,676.23" z_order="0">
+    </points>
+    <points label="49_Upper lip right mid" source="manual" occluded="0" points="302.47,677.39" z_order="0">
+    </points>
+    <points label="50_Upper lip center-right" source="manual" occluded="0" points="370.32,683.19" z_order="0">
+    </points>
+    <points label="51_Upper lip center" source="manual" occluded="0" points="412.60,689.50" z_order="0">
+    </points>
+    <points label="52_Upper lip center-left" source="manual" occluded="0" points="446.29,683.77" z_order="0">
+    </points>
+    <points label="53_Upper lip left mid" source="manual" occluded="0" points="496.75,679.13" z_order="0">
+    </points>
+    <points label="60_Inner upper lip right" source="manual" occluded="0" points="275.61,681.60" z_order="0">
+    </points>
+    <points label="54_Mouth left corner" source="manual" occluded="0" points="559.96,684.35" z_order="0">
+    </points>
+    <points label="55_Lower lip left mid" source="manual" occluded="0" points="510.66,720.30" z_order="0">
+    </points>
+    <points label="56_Lower lip center-left" source="manual" occluded="0" points="453.60,730.80" z_order="0">
+    </points>
+    <points label="57_Lower lip center" source="manual" occluded="0" points="411.30,733.40" z_order="0">
+    </points>
+    <points label="58_Lower lip center-right" source="manual" occluded="0" points="367.30,730.60" z_order="0">
+    </points>
+    <points label="59_Lower lip right mid" source="manual" occluded="0" points="315.28,708.74" z_order="0">
+    </points>
+    <points label="21_Right eyebrow inner end" source="manual" occluded="0" points="367.29,398.44" z_order="0">
+    </points>
+    <points label="22_Left eyebrow inner end" source="manual" occluded="0" points="480.02,405.95" z_order="0">
+    </points>
+    <points label="23_Left eyebrow" source="manual" occluded="0" points="510.92,380.90" z_order="0">
+    </points>
+    <points label="24_Left eyebrow" source="manual" occluded="0" points="568.54,374.22" z_order="0">
+    </points>
+    <points label="25_Left eyebrow" source="manual" occluded="0" points="626.16,382.57" z_order="0">
+    </points>
+    <points label="26_Left eyebrow outer end" source="manual" occluded="0" points="650.38,436.02" z_order="0">
+    </points>
+    <points label="27_Nose bridge top" source="manual" occluded="0" points="426.60,424.30" z_order="0">
+    </points>
+    <points label="28_Nose bridge" source="manual" occluded="0" points="424.90,466.90" z_order="0">
+    </points>
+    <points label="29_Nose bridge Bottom" source="manual" occluded="0" points="423.20,512.00" z_order="0">
+    </points>
+    <points label="30_Nose Tip Center" source="manual" occluded="0" points="417.39,619.73" z_order="0">
+    </points>
+    <points label="32_Nose tip right" source="manual" occluded="0" points="361.80,610.25" z_order="0">
+    </points>
+    <points label="33_Nose tip bottom" source="manual" occluded="1" points="418.34,636.34" z_order="0">
+    </points>
+  </image>
+</annotations>
