@@ -58,7 +58,7 @@ The 68 keypoints are divided into the following regions:
 
 ## Annotation Order & Naming
 
-* Annotate **sequentially** from jawline → eyebrows → eyes → nose → mouth.
+* Annotate **sequentially** from jawline → eyebrows → nose → eyes → mouth.
 * Maintain **consistent labeling across all images**.
 * Avoid duplicating or skipping labels.
 * Use the CVAT naming exactly as in the XML, e.g., `36_Right eye outer corner`.
@@ -95,13 +95,6 @@ The 68 keypoints are divided into the following regions:
 * Maintain **original image names** for traceability.
 * Include metadata: annotator name, annotation date, and version.
 
----
-
-## References
-
-* [iBUG 300-W: Facial Landmarks Standard](https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/)
-* [CVAT User Guide](https://openvinotoolkit.github.io/cvat/docs/)
-* Academic papers on facial landmark detection and annotation best practices.
 
 ---
 
