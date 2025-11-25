@@ -1,7 +1,3 @@
-Here’s a complete **`README.md`** for your **Facial-Landmarks 5-Keypoints Annotation** project, following the same style as your previous projects:
-
----
-
 # Facial Landmarks (5-Keypoints) Annotation
 
 ![Example Keypoints](before_after.gif)
