@@ -125,4 +125,5 @@ Hi! I'm **Karan Heera**, and this repository showcases my experience with **AI D
 **Karan Heera**  
 
 🌐 GitHub: [https://github.com/karanheera/](https://github.com/karanheera/)  
+
 🔗 LinkedIn: [https://linkedin.com/in/karanheera/](https://linkedin.com/in/karanheera/)
