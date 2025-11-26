@@ -1,0 +1,21 @@
+=== Body Landmarks Annotation Statistics ===
+
+Total Images: 12
+Total Annotations (points): 204
+Total Labels: 1
+
+--- Annotations per Image ---
+pexels-adenir-32996801.jpg: 17 keypoints
+pexels-alohaphotostudio-5901240.jpg: 17 keypoints
+pexels-chetanvlad-2923156.jpg: 17 keypoints
+pexels-cottonbro-7777277.jpg: 17 keypoints
+pexels-franco-monsalvo-252430633-32179270.jpg: 17 keypoints
+pexels-leonmart-1552106.jpg: 17 keypoints
+pexels-lilia-2156588316-34832026.jpg: 17 keypoints
+pexels-oluremi-adebayo-1507823-2908175.jpg: 17 keypoints
+pexels-runffwpu-4491801.jpg: 17 keypoints
+pexels-tima-miroshnichenko-5976945.jpg: 17 keypoints
+pexels-tima-miroshnichenko-6572552.jpg: 17 keypoints
+pexels-yogendras31-1701194.jpg: 17 keypoints
+
+--- Invalid Annotations (out-of-bound points) ---
